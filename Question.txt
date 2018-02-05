@@ -1,0 +1,10 @@
+Implement an algorithm to recursively call REST API so that it resolves all entity relationships which are provided by the API. 
+
+Example: If /invoice API provides invoice entities, along with references to Product entities, the API should automatically call /product API
+
+- Implement all the required constructs to facilitate the above.
+- The algorithm should NOT be hard coded. It should be suitable to be used for ANY REST API.
+
+
+
+
